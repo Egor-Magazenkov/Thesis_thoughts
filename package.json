@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@logseq/nbb-logseq": "^1.2.173"
+  }
+}
