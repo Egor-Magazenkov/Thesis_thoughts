@@ -419,4 +419,6 @@
  ;;      ;use triple underscore `___` for slash `/` in page title
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
- :publishing/all-pages-public? true}
+ :publishing/all-pages-public? true
+ :zotero/settings-v2 {"default" {:type-id "12562648", :prefer-citekey? false, :extra-tags "zotero"}}
+ :feature/enable-flashcards? false}
