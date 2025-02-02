@@ -420,4 +420,8 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :journal/page-title-format "EEE, dd.MM.yyyy"
- :editor/preferred-pasting-file? true}
+ :editor/preferred-pasting-file? true
+ :feature/enable-flashcards? false
+ :zotero/settings-v2 {"default" {:type-id "12562648", :prefer-citekey? false}
+ "Leo" {:prefer-citekey? false}}
+ :publishing/all-pages-public? true}
