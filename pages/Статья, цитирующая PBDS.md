@@ -1,0 +1,9 @@
+- {{embed [[@Hybrid Quadratic Programming - Pullback Bundle Dynamical Systems Control]]}}
+- # #Заметки
+	-
+- # #Вопросы
+	-
+- # #Мысли
+	-
+- # #Выводы
+-

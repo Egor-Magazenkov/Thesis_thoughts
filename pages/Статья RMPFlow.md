@@ -1,0 +1,9 @@
+- {{embed [[@RMPflow: A Geometric Framework for Generation of Multitask Motion Policies]]}}
+- # #Заметки
+	-
+- # #Вопросы
+	-
+- # #Мысли
+	-
+- # #Выводы
+-
