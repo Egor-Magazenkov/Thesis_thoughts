@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["источники" "заметки" "вопросы" "мысли" "выводы" "другие ресурсы"]
+ :favorites []
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -422,6 +422,4 @@
  :publishing/all-pages-public? true
  :zotero/settings-v2 {"default" {:type-id "12562648", :prefer-citekey? false, :extra-tags "zotero", :zotero-linked-attachment-base-directory "", :zotero-data-directory "/home/leo/Zotero"}}
  :feature/enable-flashcards? false
- :ui/show-brackets? false
- :graph/settings {:orphan-pages? true
- :excluded-pages? true}}
+ :ui/show-brackets? false}

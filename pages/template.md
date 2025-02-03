@@ -10,3 +10,6 @@ template-including-parent:: false
 		-
 	- # #Выводы
 	-
+- exclude-from-graph:: true
+  template:: exclude
+-

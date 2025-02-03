@@ -420,7 +420,7 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :publishing/all-pages-public? true
- :zotero/settings-v2 {"default" {:type-id "12562648", :prefer-citekey? false, :extra-tags "zotero", :zotero-linked-attachment-base-directory "", :zotero-data-directory "/home/leo/Zotero"}}
+ :zotero/settings-v2 {"default" {:type-id "12562648", :prefer-citekey? false, :extra-tags "", :zotero-linked-attachment-base-directory "", :zotero-data-directory "/home/leo/Zotero", :notes-block-text "[[Заметки]]", :attachments-block-text "[[Attachments]]"}}
  :feature/enable-flashcards? false
  :ui/show-brackets? false
  :graph/settings {:orphan-pages? false
