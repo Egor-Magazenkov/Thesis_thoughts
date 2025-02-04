@@ -1,3 +1,5 @@
+exclude-from-graph-view::  true
+
 template:: src
 template-including-parent:: false
 
@@ -10,6 +12,6 @@ template-including-parent:: false
 		-
 	- # #Выводы
 	-
-- exclude-from-graph:: true
+- exclude-from-graph-view:: true
   template:: exclude
 -

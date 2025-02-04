@@ -1,4 +1,3 @@
-tags:: [[Differential geometry]], [[Dynamical system]], [[Quadratic programming]]
 date:: 2023
 publisher:: Springer Nature Switzerland
 place:: Cham

@@ -1,4 +1,3 @@
-tags:: [[Dynamical systems]], [[Manifolds]], [[Measurement]], [[Planning]], [[Robot motion]], [[Stress]], [[Task analysis]]
 date:: 2021-05
 conference-name:: 2021 IEEE International Conference on Robotics and Automation (ICRA)
 proceedings-title:: 2021 IEEE International Conference on Robotics and Automation (ICRA)

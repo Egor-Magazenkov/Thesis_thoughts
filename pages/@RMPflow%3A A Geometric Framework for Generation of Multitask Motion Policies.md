@@ -1,4 +1,3 @@
-tags:: [[Acceleration control]], [[Collision avoidance]], [[Motion planning]], [[Path planning]], [[Robot kinematics]], [[Robots]], [[collision avoidance]], [[dynamics]], [[motion and path planning]], [[operational space control]]
 date:: 2021-07
 issn:: 1558-3783
 issue:: 3

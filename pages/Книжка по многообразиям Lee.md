@@ -1,0 +1,9 @@
+- {{embed [[@Introduction to Riemannian Manifolds]]}}
+- # #Заметки
+	-
+- # #Вопросы
+	-
+- # #Мысли
+	-
+- # #Выводы
+-

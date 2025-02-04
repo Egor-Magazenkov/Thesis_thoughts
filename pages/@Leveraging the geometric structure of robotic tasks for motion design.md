@@ -1,5 +1,3 @@
-tags:: 
-
 date:: 2021
 title:: @Leveraging the geometric structure of robotic tasks for motion design
 pages:: 149
