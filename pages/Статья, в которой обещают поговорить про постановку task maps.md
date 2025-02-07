@@ -1,9 +1,1 @@
 - {{embed [[@A Bayesian View on Motor Control and Planning]]}}
-- # #Заметки
-	-
-- # #Вопросы
-	-
-- # #Мысли
-	-
-- # #Выводы
--
