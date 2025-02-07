@@ -1,0 +1,2 @@
+file:: [Fichera and Billard - 2023 - Hybrid Quadratic Programming - Pullback Bundle Dynamical Systems Control.pdf](file:///home/leo/Zotero/storage/MES7SES8/Fichera and Billard - 2023 - Hybrid Quadratic Programming - Pullback Bundle Dynamical Systems Control.pdf)
+file-path:: file:///home/leo/Zotero/storage/MES7SES8/Fichera and Billard - 2023 - Hybrid Quadratic Programming - Pullback Bundle Dynamical Systems Control.pdf

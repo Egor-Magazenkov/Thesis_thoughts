@@ -1,2 +1,2 @@
 file:: [Bylard et al. - 2021 - Composable Geometric Motion Policies using Multi-Task Pullback Bundle Dynamical Systems.pdf](file:///home/leo/Zotero/storage/BI3W7B54/Bylard et al. - 2021 - Composable Geometric Motion Policies using Multi-Task Pullback Bundle Dynamical Systems.pdf)
-file-path:: file:///home/leo/Zotero/storage/BI3W7B54/Bylard et al. - 2021 - Composable Geometric Motion Policies using Multi-Task Pullback Bundle Dynamical Systems.pdf
+file-path:: file:///home/leo/Zotero/storage/RZGVPYUV/Bylard et al. - 2021 - Composable Geometric Motion Policies using Multi-Task Pullback Bundle Dynamical Systems.pdf

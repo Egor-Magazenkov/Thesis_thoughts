@@ -1,0 +1,2 @@
+- [lectures-slides.pdf](../assets/math439-lectures_1738929702895_0.pdf)
+- [workshop-slides.pdf](../assets/slides_1738929861031_0.pdf)
