@@ -15,6 +15,7 @@ filters:: {"источники" false}
 		- Именно про это вопрос
 		  {{embed ((67a25034-aa66-4966-af4f-15da00516f19))}}
 	- Предлагаемый результат статьи:
+	  id:: 67a5d891-b179-4452-b348-4fb33a34312f
 	  > In this paper, we propose a hybrid Quadratic Programming Pullback Bundle Dynamical System yielding the following advantages: 1) torque-based control for compliant and adaptive motions; 2) model based approach for dynamical consistent motion.
 		- Получается переход от управление ускорениями к моментам и учтение структуры робота при движении --- звучит как полезные улучшения.
 	- Предложенная схема работы
@@ -24,7 +25,7 @@ filters:: {"источники" false}
 	  $$C_I \mathbf{z} + c_I =  \geqslant 0$$
 	  заложены ограничения сочленений по скорости, ускорению и моменту.
 - # #Вопросы
-	- Заявлено, что 
+	- LATER Заявлено, что 
 	  > If the Jacobian, J, is injective everywhere, the solution of Eq. 3 can be recovered via least mean square as an analytical solution to the optimization problem $\min_{\ddot{q}} \|J\ddot{q} - b\|^2$.
 	  
 	  То есть опять какие-то ограничения на якобиан, про которые пока непонятно: когда они удовлетворяются и что делать, если этого нет?
@@ -39,5 +40,11 @@ filters:: {"источники" false}
 	  ![image.png](../assets/image_1738925112058_0.png){:height 52, :width 201}
 		- Вот только знак чуть не совпадает, но надо посмотреть, в чем разница (или просто где-то потерял минус).
 - # #Выводы
--
--
+- Цель статьи
+	- Дополнить PBDS (и другие методы, основанные на геометрических динамических системах) возможностью более удобного управления моментами и более простой обработкой динамических ограничений робота.
+- Задачи, которые решает предложенный подход
+	- Постановка и решение задачи квадратичной оптимизации ![image.png](../assets/image_1739186337134_0.png){:height 101, :width 714}
+	- Разделение задач на решаемые модулем like PBDS и предложенного блока QP (Quadratic programming)
+	- Генерация осуществимых роботом траекторий
+- Проблемы
+	-

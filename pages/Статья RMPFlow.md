@@ -10,6 +10,7 @@
 	  
 	  Что подразумевается под __geometrically consistent transformations__?
 		- > they are covariant to reparameterization
+		  
 		  То есть вне зависимости от параметризации ?пути в операционном пространстве?
 - # #Мысли
 	-
