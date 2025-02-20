@@ -7,6 +7,7 @@
 	  id:: 67a48515-274d-4271-8b6e-8abd92cbd787
 	  Но предлагают в зависимости от того, чем хотим управлять, пересчитывать из метода Эйлера позиции и скорости.
 	  > ![image.png](../assets/image_1738691346372_0.png)
+	- Нашел [реализацию](https://docs.omniverse.nvidia.com/isaacsim/latest/advanced_tutorials/tutorial_motion_generation_rmpflow.html) в симуляции в `Isaac sim`
 - # #Вопросы
 	-
 - # #Мысли
